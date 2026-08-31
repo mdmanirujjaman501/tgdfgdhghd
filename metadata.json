@@ -1,0 +1,6 @@
+{
+  "name": "TV Serial & Drama Management Admin CMS",
+  "description": "Full-stack TV Serial and Drama CMS Admin Panel with REST API, Analytics, Seasons, Episodes, Media Sources, Actors, API Keys, Users, Activity Logs and Settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
